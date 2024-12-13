@@ -27,7 +27,7 @@ void input(){
     }
     //reset mảng visited
     memset(visited, false, sizeof(visited));
-}s
+}
 //Xuất danh sách kề
 void output(){
     //In theo thứ tự tăng dần của mỗi đỉnh
